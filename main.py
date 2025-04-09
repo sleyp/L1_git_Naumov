@@ -1,3 +1,3 @@
-from config import MY_FIO
+from config import Name
 
-print(f"Hello, {MY_FIO}")
+print(f"Hello, {Name}")
